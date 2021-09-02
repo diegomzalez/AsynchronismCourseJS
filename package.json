@@ -1,0 +1,27 @@
+{
+  "name": "asynchronismcoursejs",
+  "version": "1.0.0",
+  "description": "work with asynchronism in JS",
+  "main": "src/index.js",
+  "scripts": {
+    "callback": "node  src/callback/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1DiegoG1/AsynchronismCourseJS.git"
+  },
+  "keywords": [
+    "callbacks",
+    "promise",
+    "async"
+  ],
+  "author": "Diego González",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/1DiegoG1/AsynchronismCourseJS/issues"
+  },
+  "homepage": "https://github.com/1DiegoG1/AsynchronismCourseJS#readme",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
+}
