@@ -17,3 +17,6 @@ It's a JavaScript object designed by Microsoft, to make requests to web servers.
 We can install this dependency through npm with the following command: npm install xmlhttprequest
 
 <p>With this, we can use all the xmlhttp methods and successfully make our requests.</p>
+
+# Promises
+<p>It uses the promise object to be executed now, later or never.</p>
