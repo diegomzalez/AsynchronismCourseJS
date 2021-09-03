@@ -20,3 +20,6 @@ We can install this dependency through npm with the following command: npm insta
 
 # Promises
 <p>It uses the promise object to be executed now, later or never.</p>
+
+# Async and Await
+<p>It makes our code behave synchronously.</p>
